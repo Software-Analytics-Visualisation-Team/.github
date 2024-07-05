@@ -10,4 +10,4 @@ The team is part of the Software Engineering and Technology research cluster, pa
 📊 Static Analysis (Msc. Filip Zamfirov)
 
 ## Want to learn more about our research, or to work with us? 
-Visit [our website](https://lightflp.github.io/savant/)
+Visit [our website](https://software-analytics-visualisation-team.github.io/savant/)
